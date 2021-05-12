@@ -6,6 +6,10 @@
   "author": "Gabi Dobritescu",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "cypress:open": "node_modules\\.bin\\cypress open"
+  },
   "devDependencies": {
     "cypress": "^7.3.0",
     "express": "^4.17.1"
