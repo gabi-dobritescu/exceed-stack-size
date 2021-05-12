@@ -1,0 +1,13 @@
+{
+  "name": "stack-size-exceeded",
+  "version": "1.0.0",
+  "description": "A demo project to show the stack size exceeded error with Cypress",
+  "main": "index.js",
+  "author": "Gabi Dobritescu",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^7.3.0",
+    "express": "^4.17.1"
+  }
+}
